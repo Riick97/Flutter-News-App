@@ -19,3 +19,7 @@ This is a Flutter app for watching news it makes use of the mediaStack API
 ## Bookmark news for later
 ![Screenshot](./assets/Bookmarks.png)
 
+## Read
+![Screenshot](./assets/WebView.png)
+
+
