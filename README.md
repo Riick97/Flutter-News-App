@@ -1,17 +1,21 @@
 # flutter_news
+This is a Flutter app for watching news it makes use of the mediaStack API
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
+### Watch rescent news on the home screen
 ![Screenshot](./assets/Home.png)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Adjust app to your preferences
+![Screenshot](./assets/Settings.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Light Mode for more brightness
+![Screenshot](./assets/LightMode.png)
+
+### Wanna see more at once? enable list view
+![Screenshot](./assets/ListView.png)
+
+### Search for relevant keywords
+![Screenshot](./assets/Search.png)
+
+### Bookmark news for later
+![Screenshot](./assets/Bookmarks.png)
+
